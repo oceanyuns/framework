@@ -1,0 +1,21 @@
+{
+    "name": "oceanyuns/framework",
+    "description": "This is custom framework",
+    "type": "library",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Oceanyuns\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaowei",
+            "email": "913891994@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
